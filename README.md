@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-    <style>
     <h1 class="header">Hiya! :3</h1>
 <p class="intro">Welcome to my space! I'm a multifaceted individual balancing life as a student, freelance photographer, and active-duty military service member. Creativity fuels me, whether it's through capturing moments with my camera or learning something new.</p>
 
