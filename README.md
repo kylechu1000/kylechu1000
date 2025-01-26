@@ -13,7 +13,7 @@
     </div>
 
 <div class="camera-widget">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Camera Gif">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJnM3JuNHZwYmM2bzR1aTR2eTd1ZDBnNmVvZXliejlzcXU3dmN3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sQvnSp2j460yk/giphy.gif" alt="Camera Gif">
     </div>
 </body>
 </html>
